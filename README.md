@@ -1,5 +1,5 @@
 # About Me:
-🌱 I’m currently learning **Go** & **DevOps**<br>💬 Ask me about **PHP** and **Laravel**<br>📫 How to reach me seddighi.alireza78@gmail.com
+🌱 I’m currently learning **Go** & **DevOps**<br>💬 Ask me about **PHP** and **Laravel**<br>📫 Reach me: seddighi.alireza78@gmail.com
 
 
 ## Socials:
